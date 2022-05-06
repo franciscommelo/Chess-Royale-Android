@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="fill_parent"
+    android:background="@color/dark_grey"
+
+
+
+    android:layout_height="fill_parent">
+
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="285dp"
+            android:layout_height="252dp"
+            app:srcCompat="@drawable/chess_logo_1"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+
+        <Button
+            android:id="@+id/play_game_online"
+            android:layout_width="183dp"
+            android:layout_height="73dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="36dp"
+            android:text="@string/play_online_btn"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/btn_color"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/logo"
+            />
+
+        <Button
+            android:id="@+id/play_game_offline"
+            android:layout_width="183dp"
+            android:layout_height="73dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="36dp"
+            android:text="@string/play_offline_btn"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/btn_color"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/play_game_online"
+            />
+
+        <Button
+            android:id="@+id/play_puzzle"
+            android:layout_width="183dp"
+            android:layout_height="73dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="36dp"
+            android:text="@string/play_puzzle_btn"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/btn_color"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/play_game_offline" />
+
+
+        <Button
+            android:id="@+id/about_us"
+            android:layout_width="183dp"
+            android:layout_height="73dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="36dp"
+            android:text="@string/about_us_btn"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/btn_color"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/play_puzzle"
+            />
+
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

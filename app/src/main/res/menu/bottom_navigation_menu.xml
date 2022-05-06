@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_solution_btn"
+        android:enabled="true"
+        android:icon="@drawable/ic_back_return_svgrepo_com"
+        android:title="@string/show_puzzle_solution"/>
+</menu>

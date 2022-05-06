@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="return_button">Voltar</string>
+    <string name="show_puzzle_solution">MOSTRAR SOLUÇÃO</string>
+    <string name="daily_puzzle">Puzzle do dia</string>
+    <string name="turn_text">Turno : BRANCAS</string>
+    <string name="puzzle_finished">PUZZLE TERMINADO!</string>
+    <string name="play_puzzle_btn">PUZZLE DIÁRIO</string>
+    <string name="about_us_btn">SOBRE NÓS</string>
+    <string name="about_us_text_1">Esta aplicação foi desenvolvida para a turma de Programação de Dispositivos Móveis (5º semestre) do ISEL.</string>
+    <string name="about_us_text_2">
+        Desenvolvido por:\n
+        - Francisco Melo - 42134\n
+        - Rafael Martins - 3624\n
+        - Ricardo Santos - 43529\n
+    </string>
+
+    <string name="about_us_api_credits">
+        lichess.org API para recolher os dados do puzzle
+    </string>
+
+    <string name="turn_black">Turno : PRETAS</string>
+    <string name="turn_white">Turno : BRANCAS</string>
+    <string name="moves_left">"Jogadas restantes : "</string>
+    <string name="play_offline_btn">JOGAR OFFLINE</string>
+    <string name="puzzle_solved">resolvido</string>
+    <string name="puzzle_not_solved">por resolver</string>
+    <string name="moves_left_history">"Jogadas : %1$s "</string>
+    <string name="show_solution_btn">MOSTRAR SOLUÇÃO</string>
+    <string name="solve_puzzle_btn">RESOLVER PUZZLE</string>
+    <string name="showing_solution">PUZZLE DIÁRIO - SOLUÇÃO</string>
+    <string name="check_message">"Rei %1$s em CHECK!! "</string>
+    <string name="black">PRETO</string>
+    <string name="white">BRANCO</string>
+    <string name="check_mate_message">"CHECK MATE!! %1$s VENCERAM A PARTIDA!! "</string>
+    <string name="play_online_btn">JOGAR ONLINE</string>
+    <string name="your_turn">SUA VEZ</string>
+    <string name="waiting_for_move">ESPERANDO A JOGADA DO ADVERÁRIO</string>
+    <string name="offline_game_title">JOGO OFFLINE</string>
+
+    <string name="go_to_menu">VOLTAR AO MENU</string>
+    <string name="opponent_left_game">ADVERSÁRIO ABANDONOU A PARTIDA</string>
+    <string name="online_game_title">JOGO ONLINE</string>
+
+    <string name="won_message">VENCEU A PARTIDA</string>
+    <string name="lost_message">PERDEU A PARTIDA</string>
+
+    <string name="name_field_warning">O campo (name) não pode estar vazio</string>
+
+    <string name="no_challenges_available">NENHUM DESAFIO ENCONTRADO</string>
+
+
+    <string name="create_challenge_title" >Criar Desafio</string>
+    <string name="create_challenge_waiting_message" >Esperar por adversários</string>
+    <string name="create_challenge_prompt_challenger_name" >Nome</string>
+    <string name="create_challenge_prompt_message" >Mensagem</string>
+    <string name="create_challenge_button_label" >Postar desafio</string>
+    <string name="cancel_challenge_button_label" >Cancelar</string>
+    <string name="create_challenge_button_label_in_short">Postar</string>
+
+
+
+
+
+
+</resources>

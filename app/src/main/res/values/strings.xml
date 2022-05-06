@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="return_button">RETURN</string>
+    <string name="show_puzzle_solution">SHOW SOLUTION</string>
+    <string name="daily_puzzle">Daily Puzzle</string>
+    <string name="turn_text">Turn : WHITE</string>
+    <string name="puzzle_finished">PUZZLE FINISHED!</string>
+    <string name="play_offline_btn">PLAY OFFLINE</string>
+    <string name="play_online_btn">PLAY ONLINE</string>
+
+    <string name="play_puzzle_btn">DAILY PUZZLE</string>
+    <string name="about_us_btn">ABOUT US</string>
+    <string name="about_us_text_1">This application was developed for the Mobile Device Programming class (5th semester) at ISEL.</string>
+    <string name="about_us_text_2">
+        Developed by:\n
+        - Francisco Melo - 42134\n
+        - Rafael Martins - 3624\n
+        - Ricardo Santos - 43529\n
+    </string>
+
+
+    <string name="black">BLACK</string>
+    <string name="white">WHITE</string>
+
+
+
+    <string name="about_us_api_credits">
+        lichess.org API to fetch data from
+    </string>
+    <string name="turn_black">Turn : BLACK</string>
+    <string name="turn_white">Turn : WHITE</string>
+    <string name="moves_left">"Moves left: "</string>
+
+    <string name="puzzle_date_text" translatable="false">Puzzle : %1$s </string>
+
+
+    <string name="puzzle_solved"> solved </string>
+
+
+    <string name="moves_left_history">"Moves : %1$s "</string>
+
+    <string name="show_solution_btn">"SHOW SOLUTION"</string>
+
+
+    <string name="showing_solution">DAILY PUZZLE SOLUTION</string>
+
+
+
+    <string name="puzzleItemDate" translatable="false">Date: %s</string>
+    <string name="puzzle_not_solved">not solved</string>
+    <string name="solve_puzzle_btn">SOLVE PUZZLE</string>
+
+
+    <string name="check_message">"%1$s King in CHECK!! "</string>
+
+
+    <string name="check_mate_message">"CHECK MATE!! %1$s WON!! "</string>
+
+    <string name="your_turn">"YOUR TURN"</string>
+    <string name="waiting_for_move">"WAITING FOR OPPONENTS MOVE"</string>
+
+
+
+
+
+
+
+
+    <string name="list_menu_update_label" translatable="false">Refresh</string>
+    <string name="error_getting_list" translatable="false">Could not fetch challenges list</string>
+    <string name="error_accepting_challenge" translatable="false">Could not accept challenge</string>
+    <string name="accept_challenge_dialog_title" translatable="false">Accept %s\'s challenge?</string>
+    <string name="accept_challenge_dialog_ok" translatable="false">OK</string>
+    <string name="accept_challenge_dialog_cancel" translatable="false">Cancel</string>
+    <string name="loading" translatable="false">Loading…</string>
+
+    <!-- Create challenge screen -->
+    <string name="create_challenge_title" >Create Challenge</string>
+    <string name="create_challenge_waiting_message" >Waiting for the contender</string>
+    <string name="create_challenge_prompt_challenger_name" >Name</string>
+    <string name="create_challenge_prompt_message" >Message</string>
+    <string name="create_challenge_button_label" >Post challenge</string>
+    <string name="cancel_challenge_button_label" >Cancel</string>
+    <string name="create_challenge_button_label_in_short">Post it</string>
+
+    <!-- Game screen -->
+    <string name="game_forfeit_button_label" translatable="false">Forfeit</string>
+
+
+    <string name="online_game_title" >ONLINE GAME</string>
+    <string name="offline_game_title">OFFLINE GAME</string>
+    <string name="opponent_left_game">YOU OPPONENT LEFT THE GAME</string>
+    <string name="go_to_menu">GO TO MENU</string>
+
+    <string name="won_message">YOU WON</string>
+    <string name="lost_message">YOU LOST</string>
+    <string name="name_field_warning">Name field cannot be empty</string>
+
+    <string name="leaving_game_title" translatable="false">Forfeit Game</string>
+    <string name="leaving_game_message" translatable="false">Are you sure you want the leave the game?</string>
+    <string name="cancel_btn" translatable="false">cancel</string>
+    <string name="accept" translatable="false">accept</string>
+
+
+    <string name="no_challenges_available">NO CHALLENGES FOUND</string>
+
+
+</resources>

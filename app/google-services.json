@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834698442589",
+    "project_id": "chess-royale-e1202",
+    "storage_bucket": "chess-royale-e1202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834698442589:android:a3c4f6d1fdddbc75d69ab4",
+        "android_client_info": {
+          "package_name": "pt.isel.pdm.chess4android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834698442589-cu7re2tsn67su8t43uqu8b47jhqcd9ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrWTV30Lf-7w8zn6t2_C5LvGf3ggRkD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834698442589-cu7re2tsn67su8t43uqu8b47jhqcd9ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

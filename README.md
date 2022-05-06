@@ -9,7 +9,11 @@ Main features:
 ## Activity/Screens demonstration
 
 
-![APP UI DEMO](https://i.imgur.com/PmSC2mm.png)
+
+<p align="center">
+
+<img src="https://i.imgur.com/PmSC2mm.png" style="center" alt="drawing" width="500"/>
+</p>
 
 ## Fundamental libraries and technologies used
 - [Kotlin serialization](https://github.com/Kotlin/kotlinx.serialization). Used for turning the json string data obtained from the lichess API and convert it to an object
